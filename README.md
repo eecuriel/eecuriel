@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Curiel</h1>
 <h3 align="center">I'm a Web Developer specializing in back-end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C#, VB, JavaScript, Transact-SQL, MySQL and web layout with HTML5 & CSS . Strong background in project management, customer relationship and business intelligence.</h3>
 
-- 🔭 I’m currently working on [BlazorImageResizer](https://github.com/eecuriel/BlazorImageResizer.git)
+- 🔭 I’m currently working on [BlazorImageResizer](https://github.com/eecuriel/BlazorImageResizer.git) and in a [Ecommerce Application](https://github.com/eecuriel/EcommerceApp.git)
 
 - 🌱 I’m currently learning **Blazor webassembly**
 
