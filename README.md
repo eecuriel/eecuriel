@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eduardo-curiel-a7312aa3/" target="blank"><img align="center" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1619881833~hmac=38318f7bb3f37c71c209c47851453f09" alt="https://www.linkedin.com/in/eduardo-curiel-a7312aa3/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eduardocurieldev/" target="blank"><img align="center" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1619881833~hmac=38318f7bb3f37c71c209c47851453f09" alt="https://www.linkedin.com/in/eduardo-curiel-a7312aa3/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
